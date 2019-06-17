@@ -51,8 +51,8 @@ def monopoly_with_fourth_tier
 		railroads: {
 			pieces: 4,
 			names: {
-				:reading_railroad => {},							#all these keys are set to empty hash
-				:pennsylvania_railroad => {},					#used the other syntax just because
+				:reading_railroad => {},							
+				:pennsylvania_railroad => {},
 				:b_and_o_railroad => {},
 				:shortline => {}
 			},
